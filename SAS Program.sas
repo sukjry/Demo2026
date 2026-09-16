@@ -1,3 +1,3 @@
 data test1;
-    set sashelp.class;
+    set sashelp.air;
 run;
