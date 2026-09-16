@@ -1,0 +1,1211 @@
+SAS Installed Software And Components
+
+SASHOME: E:\Program Files\SASHome
+MAINTENANCE: 94M9
+
+           Host: wx6
+        Product: tkintr
+        Version: 9.4
+   Display Name: SAS Threaded Kernel Interface to R
+Display Version: 9.4_M9
+-------------------------------------------------------------------------------
+
+           Host: wx6
+        Product: tablesrvtk
+        Version: 9.4
+   Display Name: SAS Table Server Base Components
+Display Version: 9.4_M9
+-------------------------------------------------------------------------------
+
+           Host: wx6
+        Product: aacomp
+        Version: 15.4
+   Display Name: Advanced Analytics Common Components
+Display Version: 15.4
+-------------------------------------------------------------------------------
+
+           Host: wx6
+        Product: inttechdoc
+        Version: 9.4
+   Display Name: SAS Integration Technologies Documentation
+Display Version: 9.4_M9
+-------------------------------------------------------------------------------
+
+           Host: wx6
+        Product: mgmtconsole
+        Version: 9.4
+   Display Name: SAS Management Console
+  Hot Fix Entry: Hotfix P5Z004
+Display Version: 9.4_M9
+-------------------------------------------------------------------------------
+
+           Host: wx6
+        Product: mvaviyadoc
+        Version: 9.4M9
+   Display Name: SAS Viya Content MVA Help and Documentation
+Display Version: 9.4M9
+-------------------------------------------------------------------------------
+
+           Host: wx6
+        Product: tksecure
+        Version: 9.4
+   Display Name: SAS Threaded Kernel Secure
+Display Version: 9.4_M9
+-------------------------------------------------------------------------------
+
+           Host: wx6
+        Product: tk
+        Version: 9.4
+   Display Name: SAS Threaded Kernel
+  Hot Fix Entry: Hotfix P7I001
+  Hot Fix Entry: Hotfix P7I004
+Display Version: 9.4_M9
+-------------------------------------------------------------------------------
+
+           Host: wx6
+        Product: tkbridge
+        Version: 9.4
+   Display Name: SAS Threaded Kernel Component for Accessing the Threaded Kernel from JAVA
+Display Version: 9.4_M8
+-------------------------------------------------------------------------------
+
+           Host: wx6
+        Product: wipschedsvcs
+        Version: 9.4
+   Display Name: SAS Web Infrastructure Platform Scheduling Services
+  Hot Fix Entry: Hotfix P6E004
+Display Version: 9.4_M9
+-------------------------------------------------------------------------------
+
+           Host: wx6
+        Product: tkgreenplum
+        Version: 9.50
+   Display Name: SAS Threaded Kernel Extension for Greenplum
+Display Version: 9.50
+-------------------------------------------------------------------------------
+
+           Host: wx6
+        Product: tkcore
+        Version: 9.4
+   Display Name: SAS Threaded Kernel Core Routines
+  Hot Fix Entry: Hotfix P9F002
+  Hot Fix Entry: Hotfix P9F003
+Display Version: 9.4_M9
+-------------------------------------------------------------------------------
+
+           Host: wx6
+        Product: tkolap
+        Version: 9.4
+   Display Name: Threaded Kernel OLAP Server Component
+Display Version: 9.4_M9
+-------------------------------------------------------------------------------
+
+           Host: wx6
+        Product: tkjava
+        Version: 9.4
+   Display Name: Threaded Kernel Java
+Display Version: 9.4_M9
+-------------------------------------------------------------------------------
+
+           Host: wx6
+        Product: odstemplate
+        Version: 9.4
+   Display Name: ODS Templates
+Display Version: 9.4_M9
+-------------------------------------------------------------------------------
+
+           Host: wx6
+        Product: hadoopwrapr
+        Version: 9.53
+   Display Name: DataFlux API for Hadoop
+Display Version: 9.53
+-------------------------------------------------------------------------------
+
+           Host: wx6
+        Product: analyticcmn
+        Version: 15.4
+   Display Name: SAS Common Analytic Procedures
+Display Version: 15.4
+-------------------------------------------------------------------------------
+
+           Host: wx6
+        Product: cloud
+        Version: 9.45
+   Display Name: SAS Cloud Data Storage support
+Display Version: 9.45
+-------------------------------------------------------------------------------
+
+           Host: wx6
+        Product: tkformats
+        Version: 9.4
+   Display Name: SAS Threaded Kernel User Formats
+Display Version: 9.4_M9
+-------------------------------------------------------------------------------
+
+           Host: win
+        Product: tkaccess
+        Version: 9.41
+   Display Name: SAS Threaded Kernel Extension for RDBMS Drivers Parser
+Display Version: 9.41_M7
+-------------------------------------------------------------------------------
+
+           Host: wx6
+        Product: evmclient
+        Version: 2.8
+   Display Name: SAS Environment Manager Log File Collector
+  Hot Fix Entry: Hotfix P9C001
+Display Version: 2.8
+-------------------------------------------------------------------------------
+
+           Host: wx6
+        Product: tkormp
+        Version: 15.4
+   Display Name: SAS Threaded Kernel Extensions for Operations Research
+Display Version: 15.4
+-------------------------------------------------------------------------------
+
+           Host: wx6
+        Product: etscomp
+        Version: 15.4
+   Display Name: SAS/ETS Time Series & Econometric Modeling Common Components
+Display Version: 15.4
+-------------------------------------------------------------------------------
+
+           Host: wx6
+        Product: tkmtrb
+        Version: 9.49
+   Display Name: SAS Threaded Kernel Mid-tier Request Bridge
+Display Version: 9.49
+-------------------------------------------------------------------------------
+
+           Host: wx6
+        Product: base
+        Version: 9.4
+   Display Name: Base SAS
+  Hot Fix Entry: Hotfix P7F001
+  Hot Fix Entry: Hotfix P7F004
+  Hot Fix Entry: Hotfix P7F007
+  Hot Fix Entry: Hotfix P7F011
+  Hot Fix Entry: Hotfix P7F012
+  Hot Fix Entry: Hotfix P7F014
+  Hot Fix Entry: Hotfix P7F017
+  Hot Fix Entry: Hotfix P7F019
+  Hot Fix Entry: Hotfix P7F020
+  Hot Fix Entry: Hotfix P7F022
+Display Version: 9.4_M9
+-------------------------------------------------------------------------------
+
+           Host: wx6
+        Product: pcfile
+        Version: 9.4
+   Display Name: SAS/ACCESS Interface to PC Files
+  Hot Fix Entry: Hotfix P7M002
+Display Version: 9.4_M9
+-------------------------------------------------------------------------------
+
+           Host: wx6
+        Product: econometrics
+        Version: 8.6
+   Display Name: SAS Econometrics Procedures
+Display Version: 8.6
+-------------------------------------------------------------------------------
+
+           Host: wx6
+        Product: opqualtool
+        Version: 9.4
+   Display Name: SAS Operational Qualification Tool
+  Hot Fix Entry: Hotfix R2C001
+Display Version: 9.4_M4
+-------------------------------------------------------------------------------
+
+           Host: wx6
+        Product: mapssas
+        Version: 9.50
+   Display Name: SAS/GRAPH Obsolete Maps Data
+Display Version: 9.50
+-------------------------------------------------------------------------------
+
+           Host: win
+        Product: eeditor
+        Version: 9.53
+   Display Name: SAS Enhanced Editor
+Display Version: 9.53
+-------------------------------------------------------------------------------
+
+           Host: wx6
+        Product: webinfdjdbc
+        Version: 9.44
+   Display Name: SAS Web Infrastructure Data Base JDBC Drivers
+  Hot Fix Entry: Hotfix P6Q001
+Display Version: 9.44
+-------------------------------------------------------------------------------
+
+           Host: wx6
+        Product: tkdq
+        Version: 9.47
+   Display Name: SAS Threaded Kernel for Data Quality
+Display Version: 9.47
+-------------------------------------------------------------------------------
+
+           Host: win
+        Product: iculib
+        Version: 9.47
+   Display Name: International Component for Unicode
+Display Version: 9.47
+-------------------------------------------------------------------------------
+
+           Host: wx6
+        Product: tkoracle
+        Version: 9.50
+   Display Name: SAS Threaded Kernel Extension for Oracle
+Display Version: 9.50
+-------------------------------------------------------------------------------
+
+           Host: win
+        Product: securelite
+        Version: 9.4
+   Display Name: SAS Proprietary Encryption
+Display Version: 9.4_M8
+-------------------------------------------------------------------------------
+
+           Host: wx6
+        Product: tsmodel
+        Version: 8.6
+   Display Name: SAS Time Series Modeling Procedures
+Display Version: 8.6
+-------------------------------------------------------------------------------
+
+           Host: wx6
+        Product: tknls
+        Version: 9.4
+   Display Name: Threaded Kernel National Language Support
+Display Version: 9.4_M9
+-------------------------------------------------------------------------------
+
+           Host: wx6
+        Product: dproclient
+        Version: 2.2
+   Display Name: SAS Deployment Tester - Client
+Display Version: 2.2_M12
+-------------------------------------------------------------------------------
+
+           Host: wx6
+        Product: tkspddrv
+        Version: 5.3
+   Display Name: SAS Threaded Kernel Drivers for Scalable Performance Data
+Display Version: 5.3_M6
+-------------------------------------------------------------------------------
+
+           Host: wx6
+        Product: tkgraph
+        Version: 15.4
+   Display Name: SAS Threaded Kernel Extensions for Graph Analytics
+Display Version: 15.4
+-------------------------------------------------------------------------------
+
+           Host: wx6
+        Product: tkmas
+        Version: 2.5
+   Display Name: SAS Micro Analytic Service Threaded Kernel Extensions
+Display Version: 2.5_M5
+-------------------------------------------------------------------------------
+
+           Host: wx6
+        Product: tkhphpf
+        Version: 15.4
+   Display Name: SAS Threaded Kernel Extensions for High-Performance Forecasting
+Display Version: 15.4
+-------------------------------------------------------------------------------
+
+           Host: wx6
+        Product: studio
+        Version: 3.83
+   Display Name: SAS Studio Basic
+  Hot Fix Entry: Hotfix P7Y002
+Display Version: 3.83
+-------------------------------------------------------------------------------
+
+           Host: wx6
+        Product: tkl4sas
+        Version: 9.4
+   Display Name: Threaded Kernel Log for SAS
+Display Version: 9.4_M11
+-------------------------------------------------------------------------------
+
+           Host: win
+        Product: sasoledb
+        Version: 9.52
+   Display Name: SAS Providers for OLE DB
+Display Version: 9.52
+-------------------------------------------------------------------------------
+
+           Host: wx6
+        Product: privatejre
+        Version: 9.51
+   Display Name: SAS Private Java Runtime Environment
+Display Version: 9.51
+-------------------------------------------------------------------------------
+
+           Host: wx6
+        Product: prochttp
+        Version: 9.46
+   Display Name: PROC HTTP
+Display Version: 9.46
+-------------------------------------------------------------------------------
+
+           Host: wx6
+        Product: lasreng
+        Version: 2.88
+   Display Name: SAS LASR Analytic Server Access Tools
+Display Version: 2.88
+-------------------------------------------------------------------------------
+
+           Host: wx6
+        Product: tkoldoc
+        Version: 9.4
+   Display Name: SAS Threaded Kernel Online Documentation
+Display Version: 9.4_M9
+-------------------------------------------------------------------------------
+
+           Host: wx6
+        Product: safmts
+        Version: 9.4
+   Display Name: Standalone Formats
+Display Version: 9.4_M9
+-------------------------------------------------------------------------------
+
+           Host: wx6
+        Product: tknetezza
+        Version: 9.50
+   Display Name: SAS Threaded Kernel Extension for Netezza
+Display Version: 9.50
+-------------------------------------------------------------------------------
+
+           Host: wx6
+        Product: tkiml
+        Version: 15.4
+   Display Name: SAS Threaded Kernel Extensions for Interactive Matrix Language
+Display Version: 15.4
+-------------------------------------------------------------------------------
+
+           Host: wx6
+        Product: tkstat
+        Version: 15.4
+   Display Name: SAS Threaded Kernel Extensions for Statistics
+  Hot Fix Entry: Hotfix P5P001
+  Hot Fix Entry: Hotfix P5P003
+  Hot Fix Entry: Hotfix P5P004
+  Hot Fix Entry: Hotfix P5P005
+Display Version: 15.4
+-------------------------------------------------------------------------------
+
+           Host: wx6
+        Product: mvahelpdoc
+        Version: 9.4
+   Display Name: Common Content MVA product Help and Documentation
+Display Version: 9.4_M6
+-------------------------------------------------------------------------------
+
+           Host: wx6
+        Product: graphjars
+        Version: 9.4
+   Display Name: SAS/GRAPH JAR Files
+Display Version: 9.4_M9
+-------------------------------------------------------------------------------
+
+           Host: wx6
+        Product: cmp
+        Version: 9.64
+   Display Name: SAS Compiler and Symbolic Differentiator
+  Hot Fix Entry: Hotfix R1L001
+Display Version: 9.64
+-------------------------------------------------------------------------------
+
+           Host: wx6
+        Product: tksecuressh
+        Version: 2.88
+   Display Name: SAS Threaded Kernel Extension for SSH Remote Process Launching
+Display Version: 2.88
+-------------------------------------------------------------------------------
+
+           Host: wx6
+        Product: stat
+        Version: 15.4
+   Display Name: SAS/STAT
+  Hot Fix Entry: Hotfix P5F002
+  Hot Fix Entry: Hotfix P5F003
+  Hot Fix Entry: Hotfix P5F004
+  Hot Fix Entry: Hotfix P5F005
+  Hot Fix Entry: Hotfix P5F006
+  Hot Fix Entry: Hotfix P5F007
+Display Version: 15.4
+-------------------------------------------------------------------------------
+
+           Host: wx6
+        Product: optimization
+        Version: 8.6
+   Display Name: SAS Optimization Procedures
+Display Version: 8.6
+-------------------------------------------------------------------------------
+
+           Host: wx6
+        Product: javaruntime
+        Version: 9.4
+   Display Name: Java Platform Standard Edition Runtime Environment
+Display Version: 
+-------------------------------------------------------------------------------
+
+           Host: wx6
+        Product: tkaa
+        Version: 15.4
+   Display Name: SAS Threaded Kernel Extensions for Advanced Analytics
+Display Version: 15.4
+-------------------------------------------------------------------------------
+
+           Host: wx6
+        Product: clientconfig
+        Version: 5.2
+   Display Name: SAS Client Connection Profile Configuration
+Display Version: 5.2
+-------------------------------------------------------------------------------
+
+           Host: wx6
+        Product: basestat
+        Version: 15.4
+   Display Name: Base SAS Statistical Procedures
+  Hot Fix Entry: Hotfix R1Q001
+Display Version: 15.4
+-------------------------------------------------------------------------------
+
+           Host: wx6
+        Product: mapsgfk
+        Version: 9.50
+   Display Name: GfK GeoMarketing WORLD Maps for SAS/GRAPH
+Display Version: 9.50
+-------------------------------------------------------------------------------
+
+           Host: wx6
+        Product: tkmpi
+        Version: 2.88
+   Display Name: SAS Threaded Kernel Message Passing Interface
+Display Version: 2.88
+-------------------------------------------------------------------------------
+
+           Host: wx6
+        Product: tkgrid
+        Version: 9.4
+   Display Name: SAS Threaded Kernel Grid
+Display Version: 9.4_M10
+-------------------------------------------------------------------------------
+
+           Host: wx6
+        Product: tkbasestat
+        Version: 15.4
+   Display Name: Base SAS Statistical threaded kernel extensions
+  Hot Fix Entry: Hotfix P5N001
+Display Version: 15.4
+-------------------------------------------------------------------------------
+
+           Host: wx6
+        Product: tkqc
+        Version: 15.4
+   Display Name: Threaded Kernel Extensions for SAS/QC
+Display Version: 15.4
+-------------------------------------------------------------------------------
+
+           Host: wx6
+        Product: textmine
+        Version: 15.4
+   Display Name: SAS Text Mining Process
+Display Version: 15.4
+-------------------------------------------------------------------------------
+
+           Host: wx6
+        Product: msofficedata
+        Version: 8.6
+   Display Name: SAS Add-In for Microsoft Office Server Data
+Display Version: 8.6
+-------------------------------------------------------------------------------
+
+           Host: wx6
+        Product: tkhpdmine
+        Version: 15.4
+   Display Name: SAS Threaded Kernel Extensions for High-Performance Data Mining
+Display Version: 15.4
+-------------------------------------------------------------------------------
+
+           Host: wx6
+        Product: tkteradata
+        Version: 9.49
+   Display Name: SAS Threaded Kernel Extension for Teradata
+Display Version: 9.49
+-------------------------------------------------------------------------------
+
+           Host: wx6
+        Product: tstimeinfo
+        Version: 8.6
+   Display Name: SAS Time Series Information Procedures
+Display Version: 8.6
+-------------------------------------------------------------------------------
+
+           Host: wx6
+        Product: webinfdodbc
+        Version: 9.48
+   Display Name: SAS ODBC Drivers for the Web Infrastructure Platform Data Server
+  Hot Fix Entry: Hotfix P6P002
+Display Version: 9.48
+-------------------------------------------------------------------------------
+
+           Host: wx6
+        Product: scoreaccel
+        Version: 8.8
+   Display Name: SAS Interface to Viya Model Publishing and Scoring
+Display Version: 8.8
+-------------------------------------------------------------------------------
+
+           Host: wx6
+        Product: graph
+        Version: 9.4
+   Display Name: SAS/GRAPH
+Display Version: 9.4_M9
+-------------------------------------------------------------------------------
+
+           Host: wx6
+        Product: tklasreng
+        Version: 2.88
+   Display Name: SAS Threaded Kernel Extensions for LASR Analytics Server Access Tools
+Display Version: 2.88
+-------------------------------------------------------------------------------
+
+           Host: wx6
+        Product: itclient
+        Version: 9.56
+   Display Name: SAS Integration Technologies Client
+  Hot Fix Entry: Hotfix R2S001
+Display Version: 9.56
+-------------------------------------------------------------------------------
+
+           Host: wx6
+        Product: mapsgeo
+        Version: 9.50
+   Display Name: GfK GeoMarketing CITIES Maps for SAS/GRAPH
+Display Version: 9.50
+-------------------------------------------------------------------------------
+
+           Host: wx6
+        Product: hyperagnt
+        Version: 2.5
+   Display Name: SAS Environment Manager Agent
+  Hot Fix Entry: Hotfix P6S002
+Display Version: 2.5_M6
+-------------------------------------------------------------------------------
+
+           Host: wx6
+        Product: tkormpgraph
+        Version: 15.4
+   Display Name: Threaded Kernel Extensions for Operations Research and GRAPH Analytics
+Display Version: 15.4
+-------------------------------------------------------------------------------
+
+           Host: wx6
+        Product: secureclient
+        Version: 9.4
+   Display Name: SAS/SECURE Client Components
+Display Version: 9.4_M8
+-------------------------------------------------------------------------------
+
+           Host: wx6
+        Product: securejava
+        Version: 9.4
+   Display Name: SAS/SECURE Java Component
+Display Version: 9.4_M9
+-------------------------------------------------------------------------------
+
+           Host: wx6
+        Product: tkhps
+        Version: 2.2
+   Display Name: SAS Threaded Kernel Extensions for High-Performance Analytics
+Display Version: 2.2_M10
+-------------------------------------------------------------------------------
+
+           Host: wx6
+        Product: dproserver
+        Version: 2.2
+   Display Name: SAS Deployment Tester - Server
+Display Version: 2.2_M12
+-------------------------------------------------------------------------------
+
+           Host: wx6
+        Product: cfgwizard
+        Version: 9.49680
+   Display Name: SAS Deployment Manager
+Display Version: 9.49680
+-------------------------------------------------------------------------------
+
+           Host: wx6
+        Product: deployagent
+        Version: 9.49680
+   Display Name: SAS Deployment Agent
+Display Version: 9.49680
+-------------------------------------------------------------------------------
+
+           Host: win
+        Product: sasdiagram
+        Version: 9.51
+   Display Name: SAS Diagram Control
+Display Version: 9.51
+-------------------------------------------------------------------------------
+
+           Host: wx6
+        Product: basejars
+        Version: 9.4
+   Display Name: Base SAS JAR Files
+  Hot Fix Entry: Hotfix R3K001
+Display Version: 9.4_M9
+-------------------------------------------------------------------------------
+
+           Host: wx6
+        Product: eeditor
+        Version: 9.53
+   Display Name: SAS Enhanced Editor
+Display Version: 9.53
+-------------------------------------------------------------------------------
+
+           Host: wx6
+        Product: verthelpdoc
+        Version: 9.4M9
+   Display Name: Common Content product - vertical Help and Documentation
+Display Version: 9.4M9
+-------------------------------------------------------------------------------
+
+           Host: wx6
+        Product: aastatistics
+        Version: 15.4
+   Display Name: SAS Advanced Analytics Statistics
+Display Version: 15.4
+-------------------------------------------------------------------------------
+
+           Host: wx6
+        Product: tkmds
+        Version: 2.1
+   Display Name: SAS Threaded Kernel Extension for In-Memory Data Storage
+Display Version: 2.1_M8
+-------------------------------------------------------------------------------
+
+           Host: wx6
+        Product: instqualtool
+        Version: 9.49516
+   Display Name: SAS Install Qualification Tool
+Display Version: 9.49516_M8
+-------------------------------------------------------------------------------
+
+           Host: wx6
+        Product: iculib
+        Version: 9.47
+   Display Name: International Component for Unicode
+Display Version: 9.47
+-------------------------------------------------------------------------------
+
+           Host: wx6
+        Product: inttech
+        Version: 9.4
+   Display Name: SAS Integration Technologies
+Display Version: 9.4_M9
+-------------------------------------------------------------------------------
+
+           Host: wx6
+        Product: mtrb
+        Version: 9.49
+   Display Name: Mid-Tier Rest Bridge
+Display Version: 9.49
+-------------------------------------------------------------------------------
+
+           Host: wx6
+        Product: tkhpstat
+        Version: 15.4
+   Display Name: SAS Threaded Kernel Extensions for High-Performance Statistics
+Display Version: 15.4
+-------------------------------------------------------------------------------
+
+           Host: wx6
+        Product: statcomp
+        Version: 15.4
+   Display Name: Statistics Common Components
+Display Version: 15.4
+-------------------------------------------------------------------------------
+
+           Host: wx6
+        Product: certframe
+        Version: 9.49658
+   Display Name: SAS Security Certificate Framework
+Display Version: 9.49658_M11
+-------------------------------------------------------------------------------
+
+           Host: wx6
+        Product: securelite
+        Version: 9.4
+   Display Name: SAS Proprietary Encryption
+Display Version: 9.4_M8
+-------------------------------------------------------------------------------
+
+           Host: wx6
+        Product: tkbridgejava
+        Version: 9.4
+   Display Name: SAS Java Component for Accessing Threaded Kernel from Java
+Display Version: 9.4_M8
+-------------------------------------------------------------------------------
+
+           Host: wx6
+        Product: tkspde
+        Version: 9.41
+   Display Name: SAS Threaded Kernel Components for Scalable Performance Data
+Display Version: 9.41_M9
+-------------------------------------------------------------------------------
+
+           Host: wx6
+        Product: eguidedata
+        Version: 8.6
+   Display Name: SAS Enterprise Guide Server Data
+Display Version: 8.6
+-------------------------------------------------------------------------------
+
+           Host: wx6
+        Product: tkdmine
+        Version: 15.4
+   Display Name: SAS Threaded Kernel Extensions for Data Mining
+Display Version: 15.4
+-------------------------------------------------------------------------------
+
+           Host: wx6
+        Product: hadoopcjars
+        Version: 3.0
+   Display Name: SAS Hadoop Configuration Libraries
+Display Version: 3.0
+-------------------------------------------------------------------------------
+
+           Host: wx6
+        Product: evmkitsvr
+        Version: 2.8
+   Display Name: SAS Environment Manager Enablement Kit Server
+  Hot Fix Entry: Hotfix P9B001
+Display Version: 2.8
+-------------------------------------------------------------------------------
+
+           Host: wx6
+        Product: tkodbc
+        Version: 9.4
+   Display Name: SAS Threaded Kernel Extension for ODBC
+Display Version: 9.4_M9
+-------------------------------------------------------------------------------
+
+           Host: wx6
+        Product: hpstat
+        Version: 15.4
+   Display Name: SAS High-Performance Statistics Server Components
+Display Version: 15.4
+-------------------------------------------------------------------------------
+
+           Host: wx6
+        Product: wipclient
+        Version: 9.4
+   Display Name: SAS Configuration Manager
+  Hot Fix Entry: Hotfix P6D004
+Display Version: 9.4_M9
+-------------------------------------------------------------------------------
+
+           Host: wx6
+        Product: graphdoc
+        Version: 9.4M9
+   Display Name: SAS/GRAPH Help and Documentation
+Display Version: 9.4M9
+-------------------------------------------------------------------------------
+
+           Host: wx6
+        Product: mrloginmgr
+        Version: 9.4
+   Display Name: SAS Personal Login Manager
+Display Version: 9.4_M9
+-------------------------------------------------------------------------------
+
+           Host: wx6
+        Product: sasdocviewer
+        Version: 9.50
+   Display Name: SAS Help Viewer for Windows
+Display Version: 9.50
+-------------------------------------------------------------------------------
+
+           Host: wx6
+        Product: pcfiledoc
+        Version: 9.4M9
+   Display Name: SAS/ACCESS Interface to PC Files Help and Documentation
+Display Version: 9.4M9
+-------------------------------------------------------------------------------
+
+           Host: wx6
+        Product: accelmva
+        Version: 3.1
+   Display Name: DATA Step to DS2 Translator
+Display Version: 3.1_M9
+-------------------------------------------------------------------------------
+
+           Host: wx6
+        Product: mlearning
+        Version: 15.4
+   Display Name: SAS Visual Data Mining and Machine Learning Procedures
+Display Version: 15.4
+-------------------------------------------------------------------------------
+
+           Host: wx6
+        Product: casconnctsub
+        Version: 8.47
+   Display Name: Cloud Analytics Services Connection and Submission Client
+Display Version: 8.47
+-------------------------------------------------------------------------------
+
+           Host: wx6
+        Product: tktslang
+        Version: 9.41
+   Display Name: SAS Threaded Kernel DS2 and FedSQL Language Processors
+Display Version: 9.41_M7
+-------------------------------------------------------------------------------
+
+           Host: wx6
+        Product: dprosmc
+        Version: 9.4
+   Display Name: SAS Deployment Tester Plug-in for SAS Management Console
+Display Version: 9.4_M12
+-------------------------------------------------------------------------------
+
+           Host: wx6
+        Product: tkiog
+        Version: 9.41
+   Display Name: SAS Threaded Kernel In-Database Supervisor
+Display Version: 9.41_M7
+-------------------------------------------------------------------------------
+
+           Host: wx6
+        Product: tkcloud
+        Version: 9.4M9
+   Display Name: SAS TK Cloud Data Storage infrastructure
+Display Version: 9.4M9
+-------------------------------------------------------------------------------
+
+           Host: wx6
+        Product: tkspdsdrv
+        Version: 5.6
+   Display Name: SAS Threaded Kernel Driver for SAS Scalable Performance Data Server
+Display Version: 5.6
+-------------------------------------------------------------------------------
+
+           Host: wx6
+        Product: hadoopbasics
+        Version: 9.53
+   Display Name: BASE Infrastructure to support Hadoop
+Display Version: 9.53
+-------------------------------------------------------------------------------
+
+           Host: wx6
+        Product: tkaccess
+        Version: 9.41
+   Display Name: SAS Threaded Kernel Extension for RDBMS Drivers Parser
+Display Version: 9.41_M7
+-------------------------------------------------------------------------------
+
+           Host: wx6
+        Product: basedoc
+        Version: 9.4M9
+   Display Name: Base SAS Help and Documentation
+Display Version: 9.4M9
+-------------------------------------------------------------------------------
+
+           Host: wx6
+        Product: tsreconcile
+        Version: 8.6
+   Display Name: SAS Forecast Reconciliation Procedures
+Display Version: 8.6
+-------------------------------------------------------------------------------
+
+           Host: wx6
+        Product: deployagtclt
+        Version: 9.49680
+   Display Name: SAS Remote Deployment Agent Client
+Display Version: 9.49680
+-------------------------------------------------------------------------------
+
+           Host: wx6
+        Product: tkets
+        Version: 15.4
+   Display Name: SAS Threaded Kernel Extensions for Econometric Time Series
+Display Version: 15.4
+-------------------------------------------------------------------------------
+
+           Host: wx6
+        Product: inttechjars
+        Version: 9.4
+   Display Name: SAS Integration Technologies JAR Files
+Display Version: 9.4_M9
+-------------------------------------------------------------------------------
+
+           Host: wx6
+        Product: tkpostgres
+        Version: 9.4
+   Display Name: SAS Threaded Kernel Extension for PostgreSQL
+Display Version: 9.4_M8
+-------------------------------------------------------------------------------
+
+           Host: wx6
+        Product: tkfnc
+        Version: 9.4
+   Display Name: SAS Threaded Kernel User Functions
+Display Version: 9.4_M9
+-------------------------------------------------------------------------------
+
+           Host: wx6
+        Product: tkcmp
+        Version: 9.65
+   Display Name: SAS Thread-safe Compiler and Symbolic Differentiator
+  Hot Fix Entry: Hotfix R1M001
+Display Version: 9.65
+-------------------------------------------------------------------------------
+
+           Host: wx6
+        Product: hpsdoc
+        Version: 2.2
+   Display Name: SAS High Performance Server Help and Documentation
+Display Version: 2.2_M9
+-------------------------------------------------------------------------------
+
+           Host: wx6
+        Product: grodscrender
+        Version: 9.52
+   Display Name: SAS ODS Graphics C Renderer
+Display Version: 9.52
+-------------------------------------------------------------------------------
+
+           Host: wx6
+        Product: vertviyadoc
+        Version: 9.4M9
+   Display Name: SAS Viya Content Vertical Help and Documentation
+Display Version: 9.4M9
+-------------------------------------------------------------------------------
+
+           Host: wx6
+        Product: dmscore
+        Version: 9.4
+   Display Name: SAS Data Mining Scoring
+Display Version: 9.4_M9
+-------------------------------------------------------------------------------
+
+           Host: wx6
+        Product: odbc
+        Version: 9.4
+   Display Name: SAS/ACCESS Interface to ODBC
+  Hot Fix Entry: Hotfix P7K001
+Display Version: 9.4_M9
+-------------------------------------------------------------------------------
+
+           Host: wx6
+        Product: webinfdsvrc
+        Version: 9.4
+   Display Name: SAS Web Infrastructure Platform Data Server Configuration
+Display Version: 9.4_M9
+-------------------------------------------------------------------------------
+
+           Host: wx6
+        Product: tcsvr
+        Version: 9.53
+   Display Name: SAS Web Application Server
+Display Version: 9.53
+-------------------------------------------------------------------------------
+
+           Host: wx6
+        Product: sasdiagram
+        Version: 9.51
+   Display Name: SAS Diagram Control
+Display Version: 9.51
+-------------------------------------------------------------------------------
+
+           Host: wx6
+        Product: tkhpets
+        Version: 15.4
+   Display Name: SAS Threaded Kernel Extensions for High-Performance Econometrics
+Display Version: 15.4
+-------------------------------------------------------------------------------
+
+           Host: win
+        Product: tkpostgres
+        Version: 9.4
+   Display Name: SAS Threaded Kernel Extension for PostgreSQL
+Display Version: 9.4_M8
+-------------------------------------------------------------------------------
+
+           Host: win
+        Product: secureclient
+        Version: 9.4
+   Display Name: SAS/SECURE Client Components
+Display Version: 9.4_M8
+-------------------------------------------------------------------------------
+
+           Host: wx6
+        Product: baseui
+        Version: 9.4
+   Display Name: Base SAS User Interface
+Display Version: 9.4_M9
+-------------------------------------------------------------------------------
+
+           Host: wx6
+        Product: tkjavajars
+        Version: 9.4
+   Display Name: Threaded Kernel Java Jars
+Display Version: 9.4_M9
+-------------------------------------------------------------------------------
+
+           Host: wx6
+        Product: ttfontsvert
+        Version: 9.49
+   Display Name: Report Fonts for Clients
+Display Version: 9.49
+-------------------------------------------------------------------------------
+
+           Host: wx6
+        Product: tkdb2
+        Version: 9.50
+   Display Name: SAS Threaded Kernel Extension for IBM DB2
+Display Version: 9.50
+-------------------------------------------------------------------------------
+
+           Host: wx6
+        Product: tkcas3rdclnt
+        Version: 9.78
+   Display Name: SAS Cloud Analytic Services support for Third Party Clients
+Display Version: 9.78
+-------------------------------------------------------------------------------
+
+           Host: wx6
+        Product: tktscore
+        Version: 9.4
+   Display Name: SAS Threaded Kernel Extensions for FedSQL and DS2 Standalone
+Display Version: 9.4_M9
+-------------------------------------------------------------------------------
+
+           Host: wx6
+        Product: platfmltypes
+        Version: 9.4
+   Display Name: SAS Intelligence Platform Object Framework
+  Hot Fix Entry: Hotfix P6B004
+Display Version: 9.4_M9
+-------------------------------------------------------------------------------
+
+           Host: wx6
+        Product: tkmeta
+        Version: 9.4
+   Display Name: Threaded Kernel Metadata Component
+Display Version: 9.4_M9
+-------------------------------------------------------------------------------
+
+           Host: win
+        Product: safmts
+        Version: 9.4
+   Display Name: Standalone Formats
+Display Version: 9.4_M9
+-------------------------------------------------------------------------------
+
+           Host: wx6
+        Product: tksaslaunch
+        Version: 9.53
+   Display Name: SAS TK Launcher
+Display Version: 9.53
+-------------------------------------------------------------------------------
+
+           Host: wx6
+        Product: secupdate2
+        Version: 21.0
+   Display Name: SAS Security Update 2
+Display Version: 21.0
+-------------------------------------------------------------------------------
+
+           Host: wx6
+        Product: sasoledb
+        Version: 9.52
+   Display Name: SAS Providers for OLE DB
+Display Version: 9.52
+-------------------------------------------------------------------------------
+
+           Host: wx6
+        Product: securedom
+        Version: 9.4
+   Display Name: SAS/SECURE
+  Hot Fix Entry: Hotfix P6W001
+Display Version: 9.4_M8
+-------------------------------------------------------------------------------
+
+           Host: win
+        Product: itclient
+        Version: 9.56
+   Display Name: SAS Integration Technologies Client
+  Hot Fix Entry: Hotfix R2S001
+Display Version: 9.56
+-------------------------------------------------------------------------------
+
+           Host: wx6
+        Product: hps
+        Version: 2.2
+   Display Name: SAS High-Performance Server
+Display Version: 2.2_M10
+-------------------------------------------------------------------------------
+
+           Host: wx6
+        Product: spdsclient
+        Version: 5.6
+   Display Name: SAS Scalable Performance Data Client
+  Hot Fix Entry: Hotfix P6I001
+Display Version: 5.6
+-------------------------------------------------------------------------------
+
+           Host: wx6
+        Product: webinfdsvr
+        Version: 9.4
+   Display Name: SAS Web Infrastructure Platform Data Server
+  Hot Fix Entry: Hotfix P6N002
+Display Version: 9.4_M9
+-------------------------------------------------------------------------------
+
+           Host: wx6
+        Product: tkiom
+        Version: 9.4
+   Display Name: Threaded Kernel IOM
+  Hot Fix Entry: Hotfix P7Q001
+  Hot Fix Entry: Hotfix P7Q003
+Display Version: 9.4_M9
+-------------------------------------------------------------------------------
+
+           Host: wx6
+        Product: forecast
+        Version: 8.6
+   Display Name: SAS Forecasting Procedures
+Display Version: 8.6
+-------------------------------------------------------------------------------
+
+           Host: wx6
+        Product: cas
+        Version: NaN
+   Display Name: SAS Cloud Analytic Services SAS Client
+Display Version: NaN
+-------------------------------------------------------------------------------
+
+           Host: wx6
+        Product: msofficeint
+        Version: 8.6
+   Display Name: SAS Add-In for Microsoft Office
+  Hot Fix Entry: Hotfix P5B001
+Display Version: 8.6
+-------------------------------------------------------------------------------
+
+           Host: win
+        Product: eguide
+        Version: 8.6
+   Display Name: SAS Enterprise Guide
+  Hot Fix Entry: Hotfix P5A002
+Display Version: 8.6
+-------------------------------------------------------------------------------
+
